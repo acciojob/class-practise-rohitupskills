@@ -1,5 +1,11 @@
 /*  your css code here. If applicable */
-p.para{
+/* p.para{
 	color:rgb(0,0,255);
 	background-color:#eee;
-}
+} */
+.selector { 
+    font-family: Arial; 
+    font-size: 20px; 
+    color: #00f; 
+    background-color: #eee;
+  }
